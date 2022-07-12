@@ -2,3 +2,4 @@ This the second file.
 Given for exercise purposes
 Successfully created the file
 Now file needs to be commited
+"branching is to create a logical tree"
